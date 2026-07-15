@@ -1,0 +1,20 @@
+﻿val_data_name;load_name;load_index;bus_index;bus_name
+ALLR03_Trafo1_ST [kWh];Strahlenphysik;0;12;STP
+ALLR03_Trafo2_ST [kWh];Strahlenphysik;0;12;STP
+ALLR05B_Gesamt_ST_ [kWh];Verfügungsgebäude;2;21;VFG
+PFWR021_MSSA_ST_ [kWh];L1 Aero-Gas Institutsgebäude;43;44;AERO
+PFWR023_IFK_ST_ [kWh];Verfahrenstechnik und Dampfkesselwesen;46;44;AERO
+PFWR029_Gesamt_ST_180 [kWh];Raumfahrtzentrum Baden-Württemberg;49;42;L3 RN
+PFWR031_Tr4-Institut_ST_180 [kWh];Luftfahrt 3 Institutsgebäude;50;42;L3 RN
+PFWR031A_Tr3-ruhig_ST_180 [kWh];Luftfahrt 3 Hallenbau;51;42;L3 RN
+PFWR031A_Tr5-ruhig_ST_180 [kWh];Luftfahrt 3 Hallenbau;51;43;L3 RN
+PFWR05a_Gesamt_ST [kWh];Simtech;29;5;HdS
+PFWR09_IWZ-Gesamt_ST_ [kWh];Ingenieurwissenschaften BT/A100;35;4;IW
+PFWR11_Gesamt_ST_ [kWh];Sporthalle Keltenschanze;38;14;ATRIUM
+PFWR14_Gesamt_ST [kWh];Leichte Fläche;41;37;ENTE
+PFWR53_Kraft_ST [kWh];großer Hörsaal;62;9;NWZ
+PFWR53_Licht_ST [kWh];großer Hörsaal;62;9;NWZ
+PFWR55_Gesamt_ST_ [kWh];NWZ I Chemie Hochhaus;63;9;NWZ
+PFWR57_Gesamt_ST_ [kWh];NWZ II Physik Hochhaus;64;9;NWZ
+PFWR59_Gesamt_ST_180 [kWh];Telefonzentrale;65;9;NWZ
+PFWR60_Gesamt_ST [kWh];Internationales Zentrum;66;12;STP
