@@ -1,0 +1,7 @@
+{
+    "start_date": "2017-01-01 00:00:00",
+    "end_date": "2017-02-02 00:00:00",
+    "house_type": "EnEV02_C1",
+    "dt_s": 3600,
+    "cooling": false
+}
