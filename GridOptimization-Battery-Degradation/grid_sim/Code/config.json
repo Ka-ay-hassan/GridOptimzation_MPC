@@ -1,0 +1,29 @@
+{
+  "filename": {
+    "grid_data": "grid_data.xlsx",
+    "line_std_types": "line_std_types.xlsx",
+    "grid": "uni_grid.xlsx",
+    "energy_loads": "yearly_energy.xlsx"
+  },
+  "timeperiod": {
+    "start": "2023-01-01 00:00",
+    "resolution_min": 15,
+    "end": "2023-01-08 00:00"
+  },
+  "simulation": {
+    "power_flow": true,
+    "time_series": true
+  },
+  "options": {
+    "plot": false,
+    "plot_gifs": true,
+    "animation_intervall_h": 2,
+    "save_data_to_db": false
+  },
+  "database": {
+    "bucket": "electrical_load_profiles",
+    "organization": "dwh",
+    "api_token": "1wC9E_zwyPfizKOnAb-4VTsQJim0gkGh0XFEipuIhTQ4ATs6Cglf0qA71IBfdKSclTLgGfCLmpomxin7Fb4xVQ==",
+    "url": "http://129.69.176.77:33621"
+  }
+}
